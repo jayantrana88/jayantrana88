@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayant Rana
-- 👀 I’m interested in Machine Learning and blockchain
+- 👀 I’m interested in Machine Learning, blockchain and algo trading
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on process automation projects
+- 💞️ I’m looking to collaborate on automation and fintech projects
 - 📫 How to reach me https://www.linkedin.com/in/jayant-rana2005/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can bench 225!
